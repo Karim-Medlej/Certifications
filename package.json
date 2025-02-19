@@ -1,0 +1,22 @@
+{
+  "name": "certifications",
+  "version": "1.0.0",
+  "description": "In this repository, you will find all my obtained certifications, whether from Datascientest or other official certification bodies. Thank you for visiting my GitHub! 🌟",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autopush": "git add . && git commit -m \"Auto-commit: Changes saved on $(date)\" && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karim-Medlej/Certifications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karim-Medlej/Certifications/issues"
+  },
+  "homepage": "https://github.com/Karim-Medlej/Certifications#readme"
+}
+
